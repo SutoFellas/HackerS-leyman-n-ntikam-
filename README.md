@@ -20,21 +20,16 @@ Bu proje Unity ile geliştirilmiş bir 2D platform oyunudur.
 4. Unity Editor'ü açın
 5. Projeyi çalıştırın
 
+Veya
+
+Relase kısmından setup dosyası ile kurulum yapın.
+
 ## Kontroller
 
 - A/D veya Sol/Sağ ok tuşları: Hareket
 - Space: Zıplama
-- E: Etkileşim
-- ESC: Menü
+- F12: Menü
 
 ## Geliştirme
 
 Bu proje Unity 2022.3 LTS sürümü ile geliştirilmiştir.
-
-## Katkıda Bulunma
-
-1. Bu repository'yi fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: X'`)
-4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
-5. Pull Request oluşturun 
